@@ -104,6 +104,7 @@ const SignupForm = () => {
           variant='success'>
           Submit
         </Button>
+        {error && <div>Signup failed</div>}
       </Form>
     </>
   );
