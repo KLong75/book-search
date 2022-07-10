@@ -25,7 +25,7 @@ This MERN stack application uses the Google API to search for information on boo
 run npm install from the root directory to install all dependencies
 
 ## Usage
-Sign up to create an account. Use the search bar to search the internet for books you are interested in. Click the save button to save books to your book list. When viewing your book list you may delete books from the list by clicking the delete button below the book description. You must be logged in to save books, view your list of saved books, and delete books from your list.
+Sign up to create an account. Use the search bar to search the internet for books you are interested in. Click the save button to save books to your book list. When viewing your book list you may delete books from the list by clicking the delete button below the book description. You must be logged in to save books, view your list of saved books, and delete books from your list. A user who is not logged in can search for books but will not be able to save them.
 
 ## License
 https://spdx.org/licenses/MIT.html
