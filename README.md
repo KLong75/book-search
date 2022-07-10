@@ -6,7 +6,7 @@
 This MERN stack application uses the Google API to search for information on books. A user can sign up to create an account, log in, and save books they are interested in reading to a list. Users can delete books from their list if they choose.
 
 ## Link to Deployed Application
-
+https://kj-g-book-search.herokuapp.com/
 
 
 ## Screenshots of Application
